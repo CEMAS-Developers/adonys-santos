@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adonys-santos/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/adonys-santos/static/js/main.182a20e3.chunk.js",
+    "main.js.map": "/adonys-santos/static/js/main.182a20e3.chunk.js.map",
+    "runtime-main.js": "/adonys-santos/static/js/runtime-main.a9f9617d.js",
+    "runtime-main.js.map": "/adonys-santos/static/js/runtime-main.a9f9617d.js.map",
+    "static/js/2.7fc31c58.chunk.js": "/adonys-santos/static/js/2.7fc31c58.chunk.js",
+    "static/js/2.7fc31c58.chunk.js.map": "/adonys-santos/static/js/2.7fc31c58.chunk.js.map",
+    "static/js/3.52c0a353.chunk.js": "/adonys-santos/static/js/3.52c0a353.chunk.js",
+    "static/js/3.52c0a353.chunk.js.map": "/adonys-santos/static/js/3.52c0a353.chunk.js.map",
+    "index.html": "/adonys-santos/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/adonys-santos/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7fc31c58.chunk.js.LICENSE.txt": "/adonys-santos/static/js/2.7fc31c58.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/adonys-santos/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f9617d.js",
+    "static/js/2.7fc31c58.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.182a20e3.chunk.js"
+  ]
+}
